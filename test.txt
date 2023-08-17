@@ -1,1 +1,2 @@
 git test text file 
+esc + o start writing from new line
